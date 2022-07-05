@@ -18,7 +18,7 @@
     <div class="ds">
       <div class="logo">
         <Icon name="file-alt" color="#f90" scale="3" />
-        <div class="logoText"><h3>Document<br />Scanner</h3></div>
+        <div class="logoText"><h3>Octank<br />Document Scanner</h3></div>
       </div>
       
       <input v-model="projectName" />
